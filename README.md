@@ -22,10 +22,4 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/Less-1171EE?style=flat-square&logo=Less&logoColor=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemix-zjj&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemix-zjj&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemix-zjj&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemix-zjj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
