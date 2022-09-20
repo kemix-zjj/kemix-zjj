@@ -1,8 +1,8 @@
 ### 👋 Hello there，Welcome to my GitHub! My name is Kemix!👻
-- 🌱 抓到一只前端小白，她在坚信越学习越快乐(●—●)
+- 🌱 抓到一只前端小白，她坚信越学习越快乐(●—●)
 - 🍀 
 - 😄 Pronouns: ...
-- 💫
+- 💫 具有天马行空的 thinking 与 细腻的 writing ~
 - 🤗 欢迎来到哈哈小屋 ~ 
 - 
 
