@@ -1,10 +1,9 @@
 ### 👋 Hello there，Welcome to my GitHub! My name is Kemix!👻
-- 🌱 抓到一只前端小白，她坚信越学习越快乐(●—●)
+- 🌱 一枚前端小白，她坚信越学习越快乐  (●—●)
+- 💫 一只持有鬼马的 thinking 与细腻的 writing 的大四学生。
 - 🍀 
 - 😄 Pronouns: ...
-- 💫 具有鬼马的 thinking 与 细腻的 writing ~
-- 🤗 欢迎来到哈哈小屋 ~ 
-- 
+- 🤗 欢迎来到张哈哈小屋 ~ 
 
 ### Technology Stack 📫
 
@@ -24,3 +23,5 @@
 ![Less](https://img.shields.io/badge/Less-1171EE?style=flat-square&logo=Less&logoColor=ffffff)
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemix-zjj)](https://github.com/anuraghazra/github-readme-stats)
