@@ -28,4 +28,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemix-zjj&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akemix-zjj&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemix-zjj&show_icons=true)
