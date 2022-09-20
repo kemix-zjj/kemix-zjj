@@ -1,12 +1,11 @@
 ### 👋 Hello there，Welcome to my GitHub! My name is 张哈哈!👻
 - 🌱 
 - 🍀 已知 html+css+javascript+ajax+vue。。
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 💫
 - 🤗 欢迎来到 kemix 的小屋 ~ 
 
-### Technology Stack 🧐
+### Technology Stack 📫
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=css3)
