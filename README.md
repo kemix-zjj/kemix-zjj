@@ -1,7 +1,7 @@
 ### 👋 Hello there，Welcome to my GitHub! My name is Kemix!👻
-- 🤗一枚前端小白，她坚信越学习越快乐  (●—●)
-- 💫 一只持有鬼马的 thinking 与细腻的 writing 的大四学生。
-- 🌱
+- 🤗 一枚前端小白，她坚信越学习越快乐  (●—●)
+- 💫 一只持有鬼马的 thinking 与细腻的 writing 的女大学生。
+- 🌱 
 - 🍀 
 - 😄
 
