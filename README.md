@@ -1,9 +1,10 @@
-### 👋 Hello there，Welcome to my GitHub! My name is 张哈哈!👻
-- 🌱 一只前端小白，坚信越学习越快乐的哈哈(●—●)
-- 🍀 已知 html+css+javascript+ajax+vue
+### 👋 Hello there，Welcome to my GitHub! My name is Kemix!👻
+- 🌱 抓到一只前端小白，她在坚信越学习越快乐(●—●)
+- 🍀 
 - 😄 Pronouns: ...
 - 💫
 - 🤗 欢迎来到哈哈小屋 ~ 
+- 
 
 ### Technology Stack 📫
 
