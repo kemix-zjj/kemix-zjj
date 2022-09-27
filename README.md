@@ -3,7 +3,7 @@
 - 💫 一只持有鬼马的 thinking 与细腻的 writing 的女大学生。
 - 🌱 
 - 🍀
-- 😄 
+- 😄 不妨给个 start，持续输出有趣的东西。你的支持是我最大的动力！
 
 ### Technology Stack 📫
 
