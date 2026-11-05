@@ -1,8 +1,8 @@
 ### 👋 Hello there，Welcome to my GitHub! My name is Kemix!👻
 - 🤗 一枚前端小白，坚信越学习越快乐  (●—●)
 - 💫 一只持有鬼马的 thinking 与细腻的 writing 的程序圆~
-- 🌱 
-- 🍀
+- 🌱 正在打怪升级：HTML / CSS / JavaScript / Vue，路漫漫其修远兮
+- 🍀 热爱把想法变成页面，也喜欢记录踩坑与成长
 - 😄 不妨给个 start，持续输出有趣的东西。
 
 ### Technology Stack 📫
